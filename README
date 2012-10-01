@@ -1,7 +1,0 @@
-Compilation:
-
-    ifort -O3 -fp-model fast=2 -xT -o tmalign TMalign.f
-
-Help:
-
-    tmalign -h
